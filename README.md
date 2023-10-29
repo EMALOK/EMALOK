@@ -2,6 +2,7 @@
 
 ### TODO
 
-- fbuild
-- factorio myspace ... FSpace
-- factorio runtime debugger with gui using fbuild
+- factorio gui react style
+- factorio mod build script
+- ANN motor controller
+- pose interpolator using sculpted poses
