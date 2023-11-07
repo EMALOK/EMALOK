@@ -5,3 +5,5 @@
 - ANN motor controller
 - pose interpolator using sculpted poses
 - weird parametric cad programming language
+  - matlab simulink link
+  - graphs
